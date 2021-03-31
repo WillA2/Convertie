@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/convertie/static/css/main.fbcf1b38.chunk.css",
-    "main.js": "/convertie/static/js/main.2f38c2ff.chunk.js",
-    "main.js.map": "/convertie/static/js/main.2f38c2ff.chunk.js.map",
+    "main.js": "/convertie/static/js/main.ea312a2f.chunk.js",
+    "main.js.map": "/convertie/static/js/main.ea312a2f.chunk.js.map",
     "runtime-main.js": "/convertie/static/js/runtime-main.69e6d66b.js",
     "runtime-main.js.map": "/convertie/static/js/runtime-main.69e6d66b.js.map",
-    "static/js/2.41f6432c.chunk.js": "/convertie/static/js/2.41f6432c.chunk.js",
-    "static/js/2.41f6432c.chunk.js.map": "/convertie/static/js/2.41f6432c.chunk.js.map",
+    "static/js/2.3dc00913.chunk.js": "/convertie/static/js/2.3dc00913.chunk.js",
+    "static/js/2.3dc00913.chunk.js.map": "/convertie/static/js/2.3dc00913.chunk.js.map",
     "static/js/3.c576a943.chunk.js": "/convertie/static/js/3.c576a943.chunk.js",
     "static/js/3.c576a943.chunk.js.map": "/convertie/static/js/3.c576a943.chunk.js.map",
     "index.html": "/convertie/index.html",
     "static/css/main.fbcf1b38.chunk.css.map": "/convertie/static/css/main.fbcf1b38.chunk.css.map",
-    "static/js/2.41f6432c.chunk.js.LICENSE.txt": "/convertie/static/js/2.41f6432c.chunk.js.LICENSE.txt",
+    "static/js/2.3dc00913.chunk.js.LICENSE.txt": "/convertie/static/js/2.3dc00913.chunk.js.LICENSE.txt",
     "static/media/Spotify_Logo_CMYK_Green.8eef091b.png": "/convertie/static/media/Spotify_Logo_CMYK_Green.8eef091b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.69e6d66b.js",
-    "static/js/2.41f6432c.chunk.js",
+    "static/js/2.3dc00913.chunk.js",
     "static/css/main.fbcf1b38.chunk.css",
-    "static/js/main.2f38c2ff.chunk.js"
+    "static/js/main.ea312a2f.chunk.js"
   ]
 }
